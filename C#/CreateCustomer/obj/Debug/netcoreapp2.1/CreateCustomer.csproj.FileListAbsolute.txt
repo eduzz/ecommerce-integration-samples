@@ -1,0 +1,11 @@
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateCustomer/bin/Debug/netcoreapp2.1/CreateCustomer.deps.json
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateCustomer/bin/Debug/netcoreapp2.1/CreateCustomer.runtimeconfig.json
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateCustomer/bin/Debug/netcoreapp2.1/CreateCustomer.runtimeconfig.dev.json
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateCustomer/bin/Debug/netcoreapp2.1/CreateCustomer.dll
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateCustomer/bin/Debug/netcoreapp2.1/CreateCustomer.pdb
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateCustomer/obj/Debug/netcoreapp2.1/CreateCustomer.csprojAssemblyReference.cache
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateCustomer/obj/Debug/netcoreapp2.1/CreateCustomer.csproj.CoreCompileInputs.cache
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateCustomer/obj/Debug/netcoreapp2.1/CreateCustomer.AssemblyInfoInputs.cache
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateCustomer/obj/Debug/netcoreapp2.1/CreateCustomer.AssemblyInfo.cs
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateCustomer/obj/Debug/netcoreapp2.1/CreateCustomer.dll
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateCustomer/obj/Debug/netcoreapp2.1/CreateCustomer.pdb

@@ -1,0 +1,11 @@
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateTransaction/bin/Debug/netcoreapp2.1/CreateTransaction.deps.json
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateTransaction/bin/Debug/netcoreapp2.1/CreateTransaction.runtimeconfig.json
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateTransaction/bin/Debug/netcoreapp2.1/CreateTransaction.runtimeconfig.dev.json
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateTransaction/bin/Debug/netcoreapp2.1/CreateTransaction.dll
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateTransaction/bin/Debug/netcoreapp2.1/CreateTransaction.pdb
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateTransaction/obj/Debug/netcoreapp2.1/CreateTransaction.csprojAssemblyReference.cache
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateTransaction/obj/Debug/netcoreapp2.1/CreateTransaction.csproj.CoreCompileInputs.cache
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateTransaction/obj/Debug/netcoreapp2.1/CreateTransaction.AssemblyInfoInputs.cache
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateTransaction/obj/Debug/netcoreapp2.1/CreateTransaction.AssemblyInfo.cs
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateTransaction/obj/Debug/netcoreapp2.1/CreateTransaction.dll
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateTransaction/obj/Debug/netcoreapp2.1/CreateTransaction.pdb

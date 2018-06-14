@@ -1,0 +1,11 @@
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/RetrieveToken/bin/Debug/netcoreapp2.1/RetrieveToken.deps.json
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/RetrieveToken/bin/Debug/netcoreapp2.1/RetrieveToken.runtimeconfig.json
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/RetrieveToken/bin/Debug/netcoreapp2.1/RetrieveToken.runtimeconfig.dev.json
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/RetrieveToken/bin/Debug/netcoreapp2.1/RetrieveToken.dll
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/RetrieveToken/bin/Debug/netcoreapp2.1/RetrieveToken.pdb
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/RetrieveToken/obj/Debug/netcoreapp2.1/RetrieveToken.csprojAssemblyReference.cache
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/RetrieveToken/obj/Debug/netcoreapp2.1/RetrieveToken.csproj.CoreCompileInputs.cache
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/RetrieveToken/obj/Debug/netcoreapp2.1/RetrieveToken.AssemblyInfoInputs.cache
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/RetrieveToken/obj/Debug/netcoreapp2.1/RetrieveToken.AssemblyInfo.cs
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/RetrieveToken/obj/Debug/netcoreapp2.1/RetrieveToken.dll
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/RetrieveToken/obj/Debug/netcoreapp2.1/RetrieveToken.pdb

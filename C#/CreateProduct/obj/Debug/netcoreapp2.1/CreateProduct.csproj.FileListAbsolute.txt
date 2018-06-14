@@ -1,0 +1,11 @@
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateProduct/obj/Debug/netcoreapp2.1/CreateProduct.csprojAssemblyReference.cache
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateProduct/obj/Debug/netcoreapp2.1/CreateProduct.csproj.CoreCompileInputs.cache
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateProduct/obj/Debug/netcoreapp2.1/CreateProduct.AssemblyInfoInputs.cache
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateProduct/obj/Debug/netcoreapp2.1/CreateProduct.AssemblyInfo.cs
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateProduct/bin/Debug/netcoreapp2.1/CreateProduct.deps.json
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateProduct/bin/Debug/netcoreapp2.1/CreateProduct.runtimeconfig.json
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateProduct/bin/Debug/netcoreapp2.1/CreateProduct.runtimeconfig.dev.json
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateProduct/bin/Debug/netcoreapp2.1/CreateProduct.dll
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateProduct/bin/Debug/netcoreapp2.1/CreateProduct.pdb
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateProduct/obj/Debug/netcoreapp2.1/CreateProduct.dll
+/home/brunoleonel/Fontes/Eduzz/NET/dotnet_sample/CreateProduct/obj/Debug/netcoreapp2.1/CreateProduct.pdb
