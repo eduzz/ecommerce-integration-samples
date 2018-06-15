@@ -1,3 +1,5 @@
 PHP/vendor/
 C#/*/bin
 C#/*/obj
+Java/.metadata
+Java/.recommenders
