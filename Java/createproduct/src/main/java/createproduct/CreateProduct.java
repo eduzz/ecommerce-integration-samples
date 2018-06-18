@@ -20,7 +20,7 @@ public class CreateProduct {
 	
 			con.setRequestMethod("POST");
 			con.setRequestProperty("Content-type", "application/json");
-			con.setRequestProperty("Authorization", String.format("Bearer %s", "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1MjkwODU4NjQsImN1c3RvbWVyX2lkIjoyNjczNTk1Mn0.fhQfyZzg99VavVMkOxY1ncELW47-so9kYE7fMFqfMnU"));
+			con.setRequestProperty("Authorization", String.format("Bearer %s", "<your_access_token>"));
 	
 			String data = getRequest();
 			
