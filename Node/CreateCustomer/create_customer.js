@@ -15,7 +15,7 @@ axios.request({
       'email': 'josedotest@test.com',
       'document': '78272864029',
       'cellphone': '15989898585',
-      'person_type': 'F'
+      'person_type': 'F' //F - Person | J - Entreprise
     }
   }
 })
