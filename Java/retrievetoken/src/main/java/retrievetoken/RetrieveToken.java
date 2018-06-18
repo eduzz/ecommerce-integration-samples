@@ -50,7 +50,7 @@ public class RetrieveToken {
 	private static String getCrendendtials() {
 		
 		Gson gson = new Gson();
-		Credentials cred = new Credentials("<my_eduzz_account_email>", "<my_eduzz_account_password>");
+		Credentials cred = new Credentials("brunoleonel.eduzz@gmail.com", "bl@eduzz");//"<my_eduzz_account_email>", "<my_eduzz_account_password>");
 		return gson.toJson(cred);
 	}
 }
