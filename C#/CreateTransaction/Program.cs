@@ -61,6 +61,9 @@ namespace CreateTransaction
         [JsonProperty("return_url")]
         public string ReturnURL {get;set;}
 
+        [JsonProperty("return_url")]
+        public string PostbackURL {get;set;}
+
         [JsonProperty("items")]
         public List<Item> Items {get;set;}
 
@@ -115,6 +118,7 @@ namespace CreateTransaction
                     OrderId = "1234",
                     Installments = 1,
                     ReturnURL = "<your_return_url_here>",
+                    PostbackURL = "<your_postback_url_here>",
                     Items = new List<Item>
                     {
                         //The two product IDs are needed to the transaction

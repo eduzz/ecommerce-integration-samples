@@ -32,6 +32,7 @@ class VendaController extends Controller
           "transaction" => [
               "order_id" => strval(rand(1, 100)),
               "return_url" => env("RETURN_URL"),
+              "postback_url" => env("POSTBACK_URL"),
               "installments" => 1,
               "items" => [
                   [

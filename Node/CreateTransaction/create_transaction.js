@@ -13,6 +13,7 @@ axios.request({
     'transaction': {
       'order_id': '12345',
       'return_url': 'http://test.com',
+      'postback_url': 'http://test.com/postback',
       'installments': 1,
       'items': [
         {

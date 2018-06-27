@@ -8,16 +8,19 @@ public class Transaction {
 
 	@SerializedName("order_id")
 	private String orderId;
-	
+
 	private int installments;
-	
+
 	@SerializedName("return_url")
 	private String returnURL;
-	
+
+	@SerializedName("postback_url")
+	private String postbackURL;
+
 	private List<Item> items;
-	
+
 	private Customer customer;
-	
+
 	@SerializedName("payment_url")
 	private String paymentURL;
 
@@ -43,6 +46,14 @@ public class Transaction {
 
 	public void setReturnURL(String returnURL) {
 		this.returnURL = returnURL;
+	}
+
+	public String getPostbackURL() {
+		return postbackURL;
+	}
+
+	public void setPostbackURL(String postbackURL) {
+		this.postbackURL = postbackURL;
 	}
 
 	public List<Item> getItems() {
